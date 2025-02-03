@@ -35,6 +35,7 @@ Este projeto implementa um temporizador periódico utilizando a Raspberry Pi Pic
 1. Configure o ambiente de desenvolvimento da Raspberry Pi Pico.
 2. Compile o código utilizando o SDK do RP2040.
 3. Carregue o binário para a Pico e execute o programa.
+4. Abra o wokwi intregrado no VScode e visualize a simulação.
 
 ## Autor
 Theógenes Gabriel Araújo de Andrade
